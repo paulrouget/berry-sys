@@ -1,0 +1,22 @@
+[package]
+name = "berry-sys"
+version = "0.0.1"
+edition = "2018"
+license = "MIT"
+keywords = ["berry", "no_std", "embedded"]
+authors = ["Paul Rouget <me@paulrouget.com>"]
+repository = "https://github.com/paulrouget/berry-sys"
+documentation = "https://docs.rs/berry-sys"
+description = "Rust Berry Bindings"
+readme = "README.md"
+
+[lib]
+crate-type = ["rlib"]
+
+[build-dependencies]
+cc = "1.0"
+bindgen = "0.53"
+
+[dependencies]
+cty = "0.2"
+log = "0.4"
