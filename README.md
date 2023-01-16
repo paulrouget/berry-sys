@@ -1,6 +1,3 @@
-[![Build Status](https://github.com/paulrouget/berry-sys/actions/workflows/main.yml/badge.svg)](https://github.com/paulrouget/berry-sys/actions)
-[![crates.io](https://img.shields.io/crates/v/berry-sys?logo=rust)](https://crates.io/crates/berry-sys/)
-[![API Docs](https://docs.rs/berry-sys/badge.svg?logo=docs-rs)](https://docs.rs/berry-sys/)
 
 **WIP**
 
