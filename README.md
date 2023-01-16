@@ -2,6 +2,8 @@
 [![crates.io](https://img.shields.io/crates/v/berry-sys?logo=rust)](https://crates.io/crates/berry-sys/)
 [![API Docs](https://docs.rs/berry-sys/badge.svg?logo=docs-rs)](https://docs.rs/berry-sys/)
 
+**WIP**
+
 # no_std Rust Berry Bindings
 
 From [Berry repository](https://github.com/berry-lang/berry):
